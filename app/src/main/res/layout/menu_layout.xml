@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="Hello."-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="70dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="Welcome to your Ara Heath Center."-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="25dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="What would you like to do?"-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="25dp" />-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="3"-->
+    <!--android:orientation="horizontal">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="7dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/ph_icon"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom|center"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dp"-->
+    <!--android:text="pH"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="6dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/glucoseimage"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="@drawable/rounded_text"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dip"-->
+    <!--android:text="Glucose"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="6dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/heavymetalsimage"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="@drawable/rounded_text"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dip"-->
+    <!--android:text="Heavy Metal"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="3">-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="6dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/ferroimage"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="@drawable/rounded_text"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dip"-->
+    <!--android:text="Amperometry"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="6dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/eisimage"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="@drawable/rounded_text"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dip"-->
+    <!--android:text="EIS"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="1"-->
+    <!--android:padding="3dp">-->
+    <!--<FrameLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent">-->
+
+    <!--<ImageView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:padding="6dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/debugimage"/>-->
+
+    <!--<ImageView-->
+    <!--android:src="@drawable/rounded_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="bottom"-->
+    <!--android:background="@drawable/rounded_text"-->
+    <!--android:gravity="center"-->
+    <!--android:padding="12dip"-->
+    <!--android:text="Other"-->
+    <!--android:textColor="#ffffffff"-->
+    <!--android:textStyle="bold" />-->
+    <!--</FrameLayout>-->
+
+    <!--</FrameLayout>-->
+    <!--</LinearLayout>-->
+
+</LinearLayout>

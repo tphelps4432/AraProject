@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/fragment_layout"
+    android:layout_width="fill_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<LinearLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:id="@+id/main_menu"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="Hello."-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="70dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="Welcome to your Ara Heath Center."-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="25dp" />-->
+
+    <!--<TextView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:text="What would you like to do?"-->
+    <!--android:textColor="#ffffff"-->
+    <!--android:textSize="25dp" />-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="30dp"-->
+    <!--/>-->
+    <!--<LinearLayout-->
+    <!--android:id="@+id/button_panel"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_weight="3"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:gravity="center"-->
+    <!--android:orientation="vertical">-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="pH"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--android:onClick="quickConfirm"-->
+
+    <!--/>-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="15dp"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="Glucose"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--/>-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="15dp"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="Heavy Metal"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--/>-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="15dp"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="Amperometry"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--/>-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="15dp"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="EIS"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--/>-->
+    <!--<Space-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="15dp"-->
+    <!--/>-->
+    <!--<Button-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="@drawable/button_blue"-->
+    <!--android:text="Other"-->
+    <!--android:textSize="20dp"-->
+    <!--android:textColor="#FFFFFF"-->
+    <!--android:textStyle="bold"-->
+    <!--android:padding="12dp"-->
+    <!--/>-->
+    <!--</LinearLayout>-->
+
+    <!--</LinearLayout>-->
+</FrameLayout>

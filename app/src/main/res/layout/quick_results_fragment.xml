@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:clickable="true"
+    android:onClick="returnToMenu"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_gravity="bottom"
+        android:background="#FFFFFF"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/quick_results_title"
+            android:padding="8dp"
+            android:layout_alignParentTop="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ce7d40"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:text="pH Results" />
+
+        <TextView
+            android:id="@+id/ph_circle"
+            android:layout_below="@+id/quick_results_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8.0"
+            android:padding="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:background="@drawable/circle" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/ph_circle"
+            android:layout_below="@+id/quick_results_title"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="\nLooks like you're ok!" />
+    </RelativeLayout>
+
+
+</FrameLayout>
